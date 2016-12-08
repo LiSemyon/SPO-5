@@ -1,0 +1,9 @@
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\bin\Debug\spo5.exe.config
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.Form1.resources
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.Properties.Resources.resources
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.csproj.GenerateResource.Cache
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\bin\Debug\spo5.exe
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\bin\Debug\spo5.pdb
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.exe
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\spo5\spo5\obj\Debug\spo5.pdb
